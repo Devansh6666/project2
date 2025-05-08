@@ -3,3 +3,4 @@ let a = {
      age : 20,
      marks : 90,
 };
+console.log(a.student);
