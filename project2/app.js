@@ -4,3 +4,5 @@ let a = {
      marks : 90,
 };
 console.log(a.student);
+
+//add new feature -form
